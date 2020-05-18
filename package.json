@@ -1,6 +1,6 @@
 {
-  "name": "strapi-connector-mongoose",
-  "version": "3.0.0-beta.20.1",
+  "name": "@mintdevops/strapi-connector-mongoose",
+  "version": "3.0.0-beta.20.1-0",
   "description": "Mongoose hook for the Strapi framework",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -23,9 +23,9 @@
     "strapi-utils": "3.0.0-beta.20.1"
   },
   "author": {
-    "email": "hi@strapi.io",
-    "name": "Strapi team",
-    "url": "http://strapi.io"
+    "email": "deyna@mintsrc.co.uk",
+    "name": "Mintdevops",
+    "url": "https://mintdevops.io"
   },
   "maintainers": [
     {
@@ -36,10 +36,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/mintdevops/strapi-connector-mongoose.git"
   },
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/mintdevops/strapi-connector-mongoose/issues"
   },
   "engines": {
     "node": ">=10.0.0",
@@ -48,6 +48,5 @@
   "license": "MIT",
   "scripts": {
     "test": "echo \"no tests yet\""
-  },
-  "gitHead": "c85658a19b8fef0f3164c19693a45db305dc07a9"
+  }
 }
